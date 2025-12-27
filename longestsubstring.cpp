@@ -54,10 +54,14 @@ public:
                 }
                 if(found){
                     x=0;
+                    
                     y=i-z+1;
                     found = false;
+                    
+                    
                 }
                 else{
+                    
                     y++;
                     x++;
                 }
