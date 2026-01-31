@@ -3,7 +3,7 @@
 /*
 Given n non-negative integers representing an elevation map where the width of each bar is 1, compute how much water it can trap after raining.
 
- 
+
 
 Example 1:
 Input: height = [0,1,0,2,1,0,1,3,2,1,2,1]
@@ -16,46 +16,52 @@ Input: height = [4,2,0,3,2,5]
 Output: 9
 */
 
-
 #include <iostream>
 #include <vector>
 #include <algorithm>
 using namespace std;
 
-class Solution {
+class Solution
+{
 public:
-    int trap(vector<int>& height) {
-        int left = 0;
-        int right = height.size() - 1;
+  int trap(vector<int> &height)
+  {
+    int left = 0;
+    int right = height.size() - 1;
 
-        int LMax = 0;
-        int RMax = 0;
+    int LMax = 0;
+    int RMax = 0;
 
-        int water = 0;
+    int water = 0;
 
-        while (left < right) {
-            if (height[left] < height[right]) {
-                LMax = max(LMax, height[left]);
-                water += LMax - height[left];
-                left++;
-            } else {
-                RMax = max(RMax, height[right]);
-                water += RMax - height[right];
-                right--;
-            }
-        }
-
-        return water;
+    while (left < right)
+    {
+      if (height[left] < height[right])
+      {
+        LMax = max(LMax, height[left]);
+        water += LMax - height[left];
+        left++;
+      }
+      else
+      {
+        RMax = max(RMax, height[right]);
+        water += RMax - height[right];
+        right--;
+      }
     }
+
+    return water;
+  }
 };
 
-int main() {
-    vector<int> height = {0,1,0,2,1,0,1,3,2,1,2,1};
+int main()
+{
+  vector<int> height = {0, 1, 0, 2, 1, 0, 1, 3, 2, 1, 2, 1};
 
-    Solution obj;
-    int result = obj.trap(height);
+  Solution obj;
+  int result = obj.trap(height);
 
-    cout << result << endl;
+  cout << result << endl;
 
-    return 0;
+  return 0;
 }
