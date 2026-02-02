@@ -50,7 +50,7 @@ int main() {
   int k = 8;
 
   Solution s;
-  cout << s.kthSmallest(matrix, k);
+  cout <<"Solution: "<< s.kthSmallest(matrix, k)<<endl;
   return 0;
 }
 
