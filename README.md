@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/KartikSisodia217/Leetcode_Problems/tree/master/0014-longest-common-prefix) |
+| [0035-search-insert-position](https://github.com/KartikSisodia217/Leetcode_Problems/tree/master/0035-search-insert-position) |
 ## String
 |  |
 | ------- |
@@ -13,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/KartikSisodia217/Leetcode_Problems/tree/master/0014-longest-common-prefix) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/KartikSisodia217/Leetcode_Problems/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
