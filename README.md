@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/KartikSisodia217/Leetcode_Problems/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/KartikSisodia217/Leetcode_Problems/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/KartikSisodia217/Leetcode_Problems/tree/master/0067-add-binary) |
 ## Trie
