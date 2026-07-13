@@ -38,4 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/KartikSisodia217/Leetcode_Problems/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/KartikSisodia217/Leetcode_Problems/tree/master/0067-add-binary) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/KartikSisodia217/Leetcode_Problems/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/KartikSisodia217/Leetcode_Problems/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
