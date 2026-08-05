@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/KartikSisodia217/Leetcode_Problems/tree/master/0043-multiply-strings) |
+| [0060-permutation-sequence](https://github.com/KartikSisodia217/Leetcode_Problems/tree/master/0060-permutation-sequence) |
 | [0067-add-binary](https://github.com/KartikSisodia217/Leetcode_Problems/tree/master/0067-add-binary) |
 ## Bit Manipulation
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/KartikSisodia217/Leetcode_Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/KartikSisodia217/Leetcode_Problems/tree/master/0024-swap-nodes-in-pairs) |
+| [0060-permutation-sequence](https://github.com/KartikSisodia217/Leetcode_Problems/tree/master/0060-permutation-sequence) |
 | [0203-remove-linked-list-elements](https://github.com/KartikSisodia217/Leetcode_Problems/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/KartikSisodia217/Leetcode_Problems/tree/master/0206-reverse-linked-list) |
 ## Two Pointers
